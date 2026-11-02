@@ -1,4 +1,5 @@
 console.log('Welcome to my git test!');
+
 for(var i = 0; i < 5; i++) {
-    console.log('This is iteration: ' + i);
+    console.log('This is iteration of the loop: ' + i);
 }
